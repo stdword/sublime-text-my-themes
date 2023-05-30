@@ -1,0 +1,58 @@
+{
+    "gruvbox → Dark": {
+        "Preferences": {
+            "color_scheme": "Packages/My Themes/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+            "theme": "gruvbox.sublime-theme",
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/My Themes/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+        },
+        "Preferences (Linux)": {
+            "font_options": null,
+            "theme_font_options": null
+        },
+        "Preferences (OSX)": {
+            "font_options": ["gray_antialias","subpixel_antialias"],
+            "theme_font_options": ["gray_antialias","subpixel_antialias"]
+        },
+        "Preferences (Windows)": {
+            "font_options": ["directwrite"],
+            "theme_font_options": ["directwrite"]
+        },
+        "SublimeLinter": {
+            "user": {
+                "error_color": "#fb4934",
+                "gutter_theme": "Packages/My Themes/gruvbox/extras/sublimelinter_gutter-themes/gruvbox/gruvbox.gutter-theme",
+                "warning_color": "#fe8019"
+            }
+        }
+    },
+    "gruvbox → Light": {
+        "Preferences": {
+            "color_scheme": "Packages/My Themes/gruvbox/gruvbox (Light) (Medium).sublime-color-scheme",
+            "theme": "gruvbox.sublime-theme",
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/My Themes/gruvbox/gruvbox (Light) (Medium).sublime-color-scheme",
+        },
+        "Preferences (Linux)": {
+            "font_options": null,
+            "theme_font_options": null
+        },
+        "Preferences (OSX)": {
+            "font_options": ["gray_antialias","subpixel_antialias"],
+            "theme_font_options": ["gray_antialias","subpixel_antialias"]
+        },
+        "Preferences (Windows)": {
+            "font_options": ["directwrite"],
+            "theme_font_options": ["directwrite"]
+        },
+        "SublimeLinter": {
+            "user": {
+                "error_color": "#9d0006",
+                "gutter_theme": "Packages/My Themes/gruvbox/extras/sublimelinter_gutter-themes/gruvbox/gruvbox.gutter-theme",
+                "warning_color": "#af3a03"
+            }
+        }
+    }
+}

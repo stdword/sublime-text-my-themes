@@ -1,0 +1,8 @@
+{
+    "Monokai++": {
+        "Preferences": {
+            "theme": "One.sublime-theme",
+            "color_scheme": "Packages/My Themes/Monokai++/Monokai++.tmTheme"
+        }
+    }
+}

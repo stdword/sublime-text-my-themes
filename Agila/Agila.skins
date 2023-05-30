@@ -1,0 +1,41 @@
+{
+    "Agila → Oceanic Next: Dark": {
+        "Preferences": {
+            "theme": "Agila Oceanic Dark.sublime-theme",
+            "color_scheme": "Packages/My Themes/Agila/Agila Oceanic Dark.tmTheme"
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/My Themes/Agila/Agila Oceanic Dark.Markdown.tmTheme"
+        }
+    },
+
+    "Agila → Oceanic Next": {
+        "Preferences": {
+            "theme": "Agila Oceanic.sublime-theme",
+            "color_scheme": "Packages/My Themes/Agila/Agila Oceanic.tmTheme"
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/My Themes/Agila/Agila Oceanic.Markdown.tmTheme"
+        }
+    },
+
+    "Agila → Monokai": {
+        "Preferences": {
+            "theme": "Agila Monokai.sublime-theme",
+            "color_scheme": "Packages/My Themes/Agila/Agila Monokai.tmTheme"
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/My Themes/Agila/Agila Monokai.Markdown.tmTheme"
+        }
+    },
+
+    "Agila → Oceanic Next: Red": {
+        "Preferences": {
+            "theme": "Agila Oceanic Red.sublime-theme",
+            "color_scheme": "Packages/My Themes/Agila/Agila Oceanic Red.tmTheme"
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/My Themes/Agila/Agila Oceanic Red.Markdown.tmTheme"
+        }
+    },
+}

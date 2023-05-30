@@ -1,0 +1,8 @@
+{
+    "Darkmatter": {
+        "Preferences": {
+            "theme": "Darkmatter.sublime-theme",
+            "color_scheme": "Packages/My Themes/Darkmatter/Darkmatter.tmTheme"
+        }
+    }
+}
