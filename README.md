@@ -11,7 +11,5 @@
 - [gruvbox](https://github.com/Briles/gruvbox#readme)
 - [Material](https://github.com/SublimeText/material-theme#readme)
 - [Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme#readme)
-
 - [One](https://github.com/andresmichel/one-dark-theme#readme)
 - [Monokai++](https://github.com/dcasella/monokai-plusplus#readme)
-- [Afterglow](https://github.com/YabataDesign/afterglow-theme#readme)
